@@ -10,8 +10,13 @@ week4HW/Dataset/test
 
 week4HW/Dataset/train
 
-WORKING DIRECTORY - week4HW/Dataset/
+WORKING DIRECTORY - /week4HW/Dataset/
 
+###Test data not included
+Retrieve test data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+###Saves Files in the Directory WEEK4RESULTS
+WORKING DIRECTORY - /WEEK4RESULTS/
 
 #Analyze open source data found at: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
