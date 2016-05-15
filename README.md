@@ -1,6 +1,18 @@
 ## Getting-and-cleaning-data-week-4
 #Week 4 of Coursera Getting and Cleaning Data Homework
 
+### Working Directory
+Files are contained on a main folder structure of week4HW/Dataset/
+
+Assumed file structure
+
+week4HW/Dataset/test
+
+week4HW/Dataset/train
+
+WORKING DIRECTORY - week4HW/Dataset/
+
+
 #Analyze open source data found at: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 1.Merges the training and the test sets to create one data set.
